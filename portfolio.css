@@ -1,0 +1,9 @@
+.cover {
+   width: 100%; /* whatever width you want for the cover div */
+   height: 20%;
+   background-color: white; /* optional */
+   overflow: hidden;
+}
+.cover > img {
+   width: 100%;
+}
